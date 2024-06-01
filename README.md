@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HJX-001
+- 👋 Hi
 - https://hjx-001.github.io
 
 <!---
